@@ -1,3 +1,3 @@
 def using_concat(array, element)
-[element]([element])
+[element].concat([element])
 end
