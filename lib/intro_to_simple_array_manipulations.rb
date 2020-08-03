@@ -14,7 +14,7 @@ def using_flatten
 
 end
 
-def using_
+def using_delete
 
 end
 
